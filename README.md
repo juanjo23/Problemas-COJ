@@ -1,8 +1,7 @@
-Problemas-OMEGAUP
+Problemas: OMEGAUP y COJ
 =================
 
-Algunos problemas del CONACUP 2012 y 2013
+Algunos problemas de los jueces online: OMEGAUP y COJ (Caribean Online Judge)
 
 Incendio: https://omegaup.com/arena/problem/fire 
-
 Gazillion: https://omegaup.com/arena/problem/gazillion
