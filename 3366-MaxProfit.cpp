@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  int shares[101];
-  int n, profit;
+  int shares[101], int n, profit;
 
   scanf("%d", &n);
   profit = 0;
