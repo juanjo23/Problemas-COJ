@@ -8,4 +8,6 @@ Algunos problemas de los jueces online: OMEGAUP y COJ (Caribean Online Judge)
 - Gazillion: https://omegaup.com/arena/problem/gazillion
  
 ### Problemas CAribean Online Judge (COJ):
-- 3230 - Mobitel: http://coj.uci.cu/24h/problem.xhtml?pid=3230
+- 2315 - [The Easiest Problem is This One](http://coj.uci.cu/24h/problem.xhtml?pid=2315)
+- 3230 - [Mobitel](http://coj.uci.cu/24h/problem.xhtml?pid=3230)
+- 3366 - [Maximum Profit](https://github.com/juanjo23/Problemas-COJ/blob/master/3366-MaxProfit.cpp)
