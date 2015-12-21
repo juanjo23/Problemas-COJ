@@ -3,6 +3,9 @@ Problemas: COJ y OMEGAUP
 =================
 
 Algunos problemas de los jueces online: OMEGAUP y COJ (Caribean Online Judge)
-
-Incendio: https://omegaup.com/arena/problem/fire 
-Gazillion: https://omegaup.com/arena/problem/gazillion
+### Problemas OMEGAUP:
+- Incendio: https://omegaup.com/arena/problem/fire 
+- Gazillion: https://omegaup.com/arena/problem/gazillion
+ 
+### Problemas CAribean Online Judge (COJ):
+- 3230 - Mobitel: http://coj.uci.cu/24h/problem.xhtml?pid=3230
