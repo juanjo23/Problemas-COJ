@@ -1,4 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/juanjo23/Problemas-OMEGAUP.png?label=ready&title=Ready)](https://waffle.io/juanjo23/Problemas-OMEGAUP)
+[![Stories in Ready](https://badge.waffle.io/juanjoms/Problemas-OMEGAUP.png?label=ready&title=Ready)](https://waffle.io/juanjoms/Problemas-OMEGAUP)
 Problemas: COJ y OMEGAUP
 =================
 
